@@ -1,0 +1,7 @@
+book.json
+
+{
+  "plugins": [
+    "tags"
+  ],
+}
