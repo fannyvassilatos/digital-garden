@@ -7,3 +7,5 @@ Test blablablal hello
 tags: apple, orange, banana
 
 #tag
+
+[[this-is-a-page.md]]

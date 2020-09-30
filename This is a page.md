@@ -5,3 +5,5 @@ Test blablablal hello
 #tag
 
 #test
+
+[[this-is-a-page.md]]
