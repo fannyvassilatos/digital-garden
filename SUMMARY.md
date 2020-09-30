@@ -8,4 +8,5 @@
 * [TOC](SUMMARY.md)
 * [inbox](inbox.md)
 * [todo](todo.md)
+* [Foam tips](foam-tips.md)
 * 
