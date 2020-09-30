@@ -3,3 +3,9 @@
     "tags"
   ]
 }
+
+"pluginsConfig": {
+        "tags": {
+            "placement": "bottom"
+        }
+    }
