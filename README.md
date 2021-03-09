@@ -11,10 +11,13 @@ For now, I'm just publishing that original draft from 2016 even though the Inter
 ## About me
 
 👋 Hello there, I'm Fanny.
+
 I design interfaces for work and write for fun.
-I'm interested in how Internet technologies can enable humanity to reach its full potential. 
-I've always been amazed by the potential of the Internet and feel deep sorrow for how narrowly we seem to be leveraging it as an aid to our development as a species. 
+
+I'm interested in how Internet technologies can enable humanity to reach its full potential. I've always been amazed by the potential of the Internet and feel deep sorrow for how narrowly we seem to be leveraging it as an aid to our development as a species. 
+
 Of course, this is deeply intertwined with other aspects of the human civilization like capitalism and politics but hey, that's just how big I like to dream.
+
 If you care about these same things and want to keep in the loop, I publish some writing [on my website](https://www.fannyvassilatos.com) and try to [tweet](https://twitter.com/FannyVassilatos) funny things.
 
 <!-- More about me on my [/now](https://www.fannyvassilatos.com/now) page. -->
